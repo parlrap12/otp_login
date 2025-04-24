@@ -11,6 +11,6 @@
     "cors": "^2.8.5",
     "express": "^4.18.2",
     "body-parser": "^1.20.2",
-    "dotenv": "^10.0.0"  // Add dotenv here
+    "dotenv": "^10.0.0"
   }
 }
